@@ -100,3 +100,12 @@ The helpdesk professional logs into the osTicket website with their credentials.
 <img src="https://imgur.com/mg1UJyB.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+<h2>Step 9: The ticket will be removed from the queue</h2>
+
+<p>In the image, we can see that the ticket has been removed from the overall queue of tickets.</p>
+
+<p>
+<img src="https://imgur.com/t5savIl.png" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
