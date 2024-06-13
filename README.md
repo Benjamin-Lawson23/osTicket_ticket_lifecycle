@@ -109,3 +109,12 @@ The helpdesk professional logs into the osTicket website with their credentials.
 <img src="https://imgur.com/t5savIl.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+<h2>Step 10: The ticket will be under the 'Closed' tab</h2>
+
+<p>The resolved ticket can still be found under the 'Closed' tab. Here, you can find a list of all the tickets that have been resolved.</p>
+
+<p>
+<img src="https://imgur.com/j1VzSMW.png" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
