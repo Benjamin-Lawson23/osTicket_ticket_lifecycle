@@ -48,7 +48,7 @@ The helpdesk professional logs into the osTicket website with their credentials.
 
 <h2>Step 4: Assign a ticket to an IT professional</h2>
 
-<p>Either the queue manager or the helpdesk professional will decide who the ticket will be resolved by. They will assign the ticket to that individual. In this case, the ticket is assigned to Ben. To see tickets that have been specifically to you, click on the 'My Tickets' tab.</p>
+<p>Either the queue manager or the helpdesk professional will decide who the ticket will be resolved by. They will assign the ticket to that individual. In this case, the ticket is assigned to 'Ben Lawson'. To see tickets that have been specifically to you, click on the 'My Tickets' tab.</p>
 
 <p>
 <img src="https://imgur.com/lmtGOcF.png" width="50%" alt="Disk Sanitization Steps"/>
@@ -57,7 +57,7 @@ The helpdesk professional logs into the osTicket website with their credentials.
 
 <h2>Step 5: Assess the priority of the ticket</h2>
 
-<p>When tickets arrive, the priority will often be initially determined by the user, so it may not have been accurately assessed according to the IT department's criteria. Here, we can read that the issue is that Adobe Reader is not working. As a helpdesk professional, you can determine and set the priority.</p>
+<p>When tickets arrive, the priority will often be initially determined by the user, so it may not have been accurately assessed according to the IT department's criteria. Here, we can read that the issue is that Adobe Reader is not working. As a helpdesk professional, you can determine and set the priority. In the image, helpdesk professinal Jane Doe decided that the priority is 'High'.</p>
 
 <p>
 <img src="https://imgur.com/ngoXGMw.png" width="50%" alt="Disk Sanitization Steps"/>
