@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Tickets and Ticket Lifecycle</h1>
-This tutorial outlines the lifecycle of a ticket from the persepective of a helpdesk professional using odTicket, an open-source help desk ticketing system.<br />
+This tutorial demonstrates the lifecycle of a ticket from the persepective of a helpdesk professional using osTicket, an open-source help desk ticketing system.<br />
 
 <h2>Environments and Technologies Used</h2>
 
