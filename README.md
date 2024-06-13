@@ -51,7 +51,7 @@ The helpdesk professional logs into the osTicket website with their credentials.
 <p>Either the queue manager or the helpdesk professional will decide who the ticket will be resolved by. They will assign the ticket to that individual. In this case, the ticket is assigned to Ben. To see tickets that have been specifically to you, click on the 'My Tickets' tab.</p>
 
 <p>
-<img src="https://imgur.com/V943Tij.png" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/lmtGOcF.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
