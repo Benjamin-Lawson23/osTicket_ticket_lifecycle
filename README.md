@@ -77,3 +77,12 @@ The helpdesk professional logs into the osTicket website with their credentials.
 <img src="https://imgur.com/xs3Pw6v.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+<h2>Step 7: Notify the user who created the ticket</h2>
+
+<p>Let the user who created the ticket know that you are taking action to resolve the problem. Inform them about any pertinent details, for example, how long it might take to resolve. In the image below, we see that Jane Doe informs, Ken, the user, that she has assigned the ticket and that Ken can expect the problem to be resolved within one hour.</p>
+
+<p>
+<img src="https://imgur.com/49f14xj.png" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
