@@ -57,7 +57,7 @@ The helpdesk professional logs into the osTicket website with their credentials.
 
 <h2>Step 5: Assign a ticket to an IT professional</h2>
 
-<p>Either the queue manager or the helpdesk professional will decide who the ticket will be resolved by. They will assign the ticket to that individual. In this case, the ticket is assigned to 'Ben Lawson'.</p>
+<p>Either the queue manager or the helpdesk professional will decide who the ticket will be resolved by. They will assign the ticket to that individual. In this case, the ticket is assigned to 'Ben Lawson'. You can send the IT professional quick note as well at this point.</p>
 
 <p>
 <img src="https://imgur.com/lmtGOcF.png" width="50%" alt="Disk Sanitization Steps"/>
