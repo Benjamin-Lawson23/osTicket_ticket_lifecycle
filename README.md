@@ -33,7 +33,7 @@ The helpdesk professional logs into the osTicket website with their credentials.
 <p>Once the helpdesk professional logs in, they will see a queue of unassigned tickets that need to be resolved</p>
 
 <p>
-<img src="https://imgur.com/V943Tij.png" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/n4veNDu.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
