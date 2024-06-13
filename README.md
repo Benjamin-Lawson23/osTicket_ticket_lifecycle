@@ -28,9 +28,9 @@ The helpdesk professional logs into the osTicket website with their credentials.
 </p>
 <p>
 
-<h2>Step 2: Observe the queue of tickets</h2>
+<h2>Step 2: Note the tickets in the queue</h2>
 
-<p>Once the helpdesk professional logs in, they will see a queue of unassigned tickets that need to be resolved</p>
+<p>Once the helpdesk professional logs in, they will presented with a queue of unassigned tickets that need to be resolved. To see tickets that have been specifically to you, click on the 'My Tickets' tab.</p>
 
 <p>
 <img src="https://imgur.com/n4veNDu.png" width="50%" alt="Disk Sanitization Steps"/>
@@ -57,7 +57,7 @@ The helpdesk professional logs into the osTicket website with their credentials.
 
 <h2>Step 5: Assign a ticket to an IT professional</h2>
 
-<p>Either the queue manager or the helpdesk professional will decide who the ticket will be resolved by. They will assign the ticket to that individual. In this case, the ticket is assigned to 'Ben Lawson'. To see tickets that have been specifically to you, click on the 'My Tickets' tab.</p>
+<p>Either the queue manager or the helpdesk professional will decide who the ticket will be resolved by. They will assign the ticket to that individual. In this case, the ticket is assigned to 'Ben Lawson'.</p>
 
 <p>
 <img src="https://imgur.com/lmtGOcF.png" width="50%" alt="Disk Sanitization Steps"/>
