@@ -60,6 +60,6 @@ The helpdesk professional logs into the osTicket website with their credentials.
 <p>When tickets arrive, the priority will often be initially determined by the user, so it may not have been accurately assessed according to the IT department's criteria. Here, we can read that the issue is that Adobe Reader is not working. As a helpdesk professional, you can determine and set the priority.</p>
 
 <p>
-<img src="https://imgur.com/V943Tij.png" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ngoXGMw.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
