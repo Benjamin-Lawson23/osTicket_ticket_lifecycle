@@ -68,3 +68,12 @@ The helpdesk professional logs into the osTicket website with their credentials.
 <img src="https://imgur.com/0Wk4l2Q.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+<h2>Step 6: Determine the Service Level Agreement (SLA) level</h2>
+
+<p>A Service Level Agreement is essentially a target for how long the ticekt will be open. Your company's will have guidelines to help you to determine this. In the image, we can see that the help desk professional has determined that Adobe not working is a Severity B, or mid-level problem.</p>
+
+<p>
+<img src="https://imgur.com/xs3Pw6v.png" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
