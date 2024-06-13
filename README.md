@@ -86,3 +86,12 @@ The helpdesk professional logs into the osTicket website with their credentials.
 <img src="https://imgur.com/49f14xj.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+<h2>Step 8: The Assigned IT Professional will fix the issue</h2>
+
+<p>Ben, the IT professional who was assigned the ticket, has fixed the problem. He clicks 'resolved' on the ticket and adds a message to the thread informing other IT professionals that the ticket has been closed.</p>
+
+<p>
+<img src="https://imgur.com/mg1UJyB.png" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
