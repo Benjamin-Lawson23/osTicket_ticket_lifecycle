@@ -13,7 +13,7 @@ This tutorial demonstrates the lifecycle of a ticket from the persepective of a 
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> 
 
 
 <h2>Ticket Lifecycle</h2>
