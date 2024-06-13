@@ -64,3 +64,7 @@ The helpdesk professional logs into the osTicket website with their credentials.
 </p>
 <p>
 
+<p>
+<img src="https://imgur.com/0Wk4l2Q.png" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
